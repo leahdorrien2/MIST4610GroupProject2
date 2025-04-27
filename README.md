@@ -75,7 +75,9 @@ Is there a correlation between promotional coupons/credits wagered and total gro
 # Question 2 and Importance
 What is the total number of wagers placed across all licensees during a specific fiscal year? Does start time of operations have an effect?
 
- Regardless of the type of gambling operation being run, it is obvious that the total number of the wagers for a particular firm/licensee placed will reflect both overall market growth and the relative performance of said licensee. There were several possible dynamics that we wanted to consider when analyzing the results of this. It can inform us of the status of the marketas a whole, whether it is growing, stabilizing, or dying. It will also show if there are any dominant players with sustainable competitive advantages. The start dates are important to consider to see the impact first-mover advantage in the online gambling market. While the visualization will be hard to draw direct causations from, the patterns can help guide furhter research into why licensees are performing in these ways.
+  Regardless of the type of gambling operation being run, it is obvious that the total number of the wagers for a particular firm/licensee placed will reflect both overall market growth and the relative performance of said licensee. There were several possible dynamics that we wanted to consider when analyzing the results of this.
+ 
+  It can inform us of the status of the marketas a whole, whether it is growing, stabilizing, or dying. It will also show if there are any dominant players with sustainable competitive advantages. The start dates are important to consider to see the impact first-mover advantage in the online gambling market. While the visualization will be hard to draw direct causations from, the patterns can help guide furhter research into why licensees are performing in these ways.
 
 # Question 2 Tableau Visualization
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/7de50e1b-0992-4ff4-a403-55856241f3af" />
