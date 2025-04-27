@@ -56,12 +56,16 @@ Patron Winnings: The patron winnings is the number of wagers that patrons won. T
 
 - for the LLCs, much larger operations
 # Question 1 Analysis
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/7de50e1b-0992-4ff4-a403-55856241f3af" />
-- for the On-Reservations (much smaller operations)
-<img width="791" alt="image" src="https://github.com/user-attachments/assets/c93917c6-6d67-4a0a-bb73-dfd836c4cd3b" />
-- for the LLCs (much larger operations)
+
 
 # Question 2 and Importance
-# Question 1 Tableau Visualization
+# Question 2 Tableau Visualization
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/7de50e1b-0992-4ff4-a403-55856241f3af" />
+
+- for the On-Reservations (much smaller operations)
+
+<img width="791" alt="image" src="https://github.com/user-attachments/assets/c93917c6-6d67-4a0a-bb73-dfd836c4cd3b" />
+
+- for the LLCs (much larger operations)
 # Question 2 Analysis
 # Tableau Workbook
