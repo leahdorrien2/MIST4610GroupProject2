@@ -63,9 +63,13 @@ Is there a correlation between promotional coupons/credits wagered and total gro
 - for the LLCs (much larger operations)
 # Question 1 Analysis
   The data was split into two sections due to a difference in scope and scale. Separating the graphs allowed us to clearly see the pattern, if existent, between promotional coupons/credits wagered versus the gross gambling revenue of a particular license. This visualization focuses on long term effectiveness of promotional coupons. 
+  
   As seen in the second graph, there is an extremely strong correlation between these two for the Mohegan Digital LLC with each line mirroring the other on every drop and peak in the graph. This suggests that they are implementing their promotions in the most effective way causing gross revenue to rise when more promotional coupons/credits are used. This also suggests that they have the highest return on investment from these promotions.
+  
   While not close to as strong as Mohegan Digital LLC's correlation, MPI Master Wagering License CT, LLC shows a correlation between promotional coupons/credits especially in the last six months of the year suggesting that their implementation of promotions is having an impact on revenue and is giving them atleast some return on investment.
+  
   The on-reservation online gambling data, however, that is exhibited in the first screenshot, shows no clear long term relationship. This suggests that their implementations of promotions are not leading to higher gross gambling revenues. This means that they are more likely than not losing money on promotions rather than gaining and need to adapt their strategy. 
+  
   It is important to also note that taxes are not taken into account when looking at gross gambling revenue. Since promotions can be taken away from the taxable base of a licensee's revenue, there is postive tax break that comes from promotions. This means that the promotional coupons have a positive effect on profit that is not shown in the visualizations and should be taken into account when looking at ROI.
 
 # Question 2 and Importance
