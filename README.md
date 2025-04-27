@@ -20,7 +20,7 @@ Sp25_21479_Group2
 
 4. Mohegan Digital, LLC: A subsidiary of Mohegan Gaming & Entertainment. Handles online gaming gambling platforms, for instance e-bingo or sports betting. 
 
-Each row is a data from one license for a particular month.
+Each row is data from one license for a particular month.
 
 Explanations of column information can be found below.
 
@@ -46,9 +46,19 @@ Patron Winnings: The patron winnings is the number of wagers that patrons won. T
 - Payment (5): How much each casino pays out to its employees in dollars. Payment rate is 18% of Gross Gaming Revenue until September 2026, 20% for all subsequent periods, and does not apply to negative revenue.
 
 # Question 1 and Importance
-# Question 1 Tableau VIsualization
+
+# Question 1 Tableau Visualization
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/e15e2588-7cee-44b8-908d-81df5262f464" />
+- for the On-Reservations, much smaller operations
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/ebf1d238-1097-4359-9efb-099d27b8b6ed" />
+- for the LLCs, much larger operations
 # Question 1 Analysis
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/7de50e1b-0992-4ff4-a403-55856241f3af" />
+- for the On-Reservations (much smaller operations)
+<img width="791" alt="image" src="https://github.com/user-attachments/assets/c93917c6-6d67-4a0a-bb73-dfd836c4cd3b" />
+- for the LLCs (much larger operations)
+
 # Question 2 and Importance
-# Question 1 Tableau VIsualization
+# Question 1 Tableau Visualization
 # Question 2 Analysis
 # Tableau Workbook
