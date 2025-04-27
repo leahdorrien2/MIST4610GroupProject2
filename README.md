@@ -69,3 +69,4 @@ Patron Winnings: The patron winnings is the number of wagers that patrons won. T
 - for the LLCs (much larger operations)
 # Question 2 Analysis
 # Tableau Workbook
+The file is attached.
