@@ -53,8 +53,6 @@ Is there a correlation between promotional coupons/credits wagered and total gro
   The question is especially salient within the dataset we are using, as all four licensees are online gambling operations. For mobile gambling applications in particular, promotional coupons are often seen in the form of “free” in-game currency offerings, or “risk-free” bets. It is the conventional wisdom that such microtransactions substantially enhance the feedback loops that make online gambling so enticing and thus an extremely effective money-maker. By providing an on-ramp that introduces prospective players to the experience, these promotions can have a strong effect on gross revenue. While this makes rather intuitive sense, others have proposed the idea that the mechanism that makes these games so addictive is the stress of losing, or at least the risk of losing it all. 
   
   Through this online gambling data from Connecticut, we can test these theories and the effectiveness of promotional coupons and credits.
-  
-  State and federal governments have concerns about promotional deductions taking away from the taxable base of a firm’s revenue. As such, policies like Connecticut’s Act 21-23 have gradually lowered the maximum percentage of revenue that can be deducted as promotional deductions from 25% to 15%. 
 
 
 # Question 1 Tableau Visualization
@@ -75,6 +73,8 @@ Is there a correlation between promotional coupons/credits wagered and total gro
   The on-reservation online gambling data, however, that is exhibited in the first screenshot, shows no clear long term relationship. This suggests that their implementations of promotions are not leading to higher gross gambling revenues. This means that they are more likely than not losing money on promotions rather than gaining and need to adapt their strategy. 
   
   It is important to also note that taxes are not taken into account when looking at gross gambling revenue. Since promotions can be taken away from the taxable base of a licensee's revenue, there is postive tax break that comes from promotions. This means that the promotional coupons have a positive effect on profit that is not shown in the visualizations and should be taken into account when looking at ROI.
+
+  State and federal governments have concerns about promotional deductions taking away from the taxable base of a firm’s revenue. As such, policies like Connecticut’s Act 21-23 have gradually lowered the maximum percentage of revenue that can be deducted as promotional deductions from 25% to 15%. This may explain the volatility in amount of promotional credits wagered each month.
 
 # Question 2 and Importance
 What is the total number of wagers placed across all licensees during a specific fiscal year? Does start time of operations have an effect?
