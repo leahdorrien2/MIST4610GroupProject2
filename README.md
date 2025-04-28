@@ -92,5 +92,21 @@ What is the total number of wagers placed across all licensees during a specific
 
 - for the LLCs (much larger operations)
 # Question 2 Analysis
+  There are a few important things to consider when examining the visuals for this question. Most importantly there are differing start dates for licensees and not all years contain the same amount of operating months due to the data ending in March rather than at the end of the 24/25 fiscal year. 
+
+The start dates of each license are as follows
+- Mohegan Digital LLC and MPI Master Wagering License CT, LLC (Oct. 2021)
+- MPTN On-Reservation (Dec. 2021) 
+- Mohegan Tribe On-Reservation (May 2022)
+
+  The LLCs, both Mohegan Digital and MPI Master Wagering License CT, were the first movers in this market and have sustained much higher wager numbers than the smaller operations of the on reservation licensees. Because the difference is so drastic, over 8 billion compared to 30 million at their respective peaks, the graphs were again split into LLC and on-reservation to be able to see the trends clearly. While first-mover advantage is on the larger operations' side, the difference in operations is probably mostly due to the size of their companies and establishment in other markets before Connecticut.
+  
+  MPI Master Wagering consistently leads in wager volume each year, suggesting higher user engagement or broader reach compareed to its competitors. The consistency of their dominance shows that they have a sustainable advantage and likely better operations separate from any early market advantage. 
+
+  When looking at the overall market focusing on the bigger players, it seems that the market is beginning to fail, but it is more likely stabilizing, still growing but at a decreasing rate, when accounting for the fact that 24/25 is missing multiple months worth of wager numbers. This growing but at a decreasing rate would be consistent with the difference between 22/23 and 23/24 making it all the more likely the true state of the market.
+
+  The smaller on-reservation licensees offer another perspective on the advantage of getting into the market early. While neither joined at the time of the LLCs, MPTN On-Reservation had a small establishment advantage over Mohegan Tribe On-Reservation after starting operations earlier; however, this evened out by the 24/25 fiscal year suggesting that it is not a sustainable advantage.
+
+
 # Tableau Workbook
 The file is attached.
