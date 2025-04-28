@@ -2,11 +2,11 @@
 # Team Name
 Sp25_21479_Group2
 # Team Members 
-1. Buckner, Alexa [@amb21398]()
-2. Eloore, Neha [@neloore]()
-3. Nguyen, Hung @[triumviratesys]()
-4. Spraker, Dabney @[dps24510]()
-5. Dorrien, Leah [@leahdorrien2]()
+1. Buckner, Alexa [@amb21398](https://github.com/amb21398/M4610_GP2_2/blob/main/README.md)
+2. Eloore, Neha [@neloore](https://github.com/neloore/MIST4610GroupProject2/blob/f35f590f3bfdd09720bbdcf70aedadbfabef4bfa/README.md)
+3. Nguyen, Hung @[triumviratesys](https://github.com/dps24510/MIST4610GroupProject2)
+4. Spraker, Dabney @[dps24510](https://github.com/triumviratesys/MIST4610GroupProject2)
+5. Dorrien, Leah [@leahdorrien2](https://github.com/leahdorrien2/MIST4610GroupProject2/blob/main/README.md)
 # Dataset Description
   For this project, our group chose to use a dataset entitled Selected Online Casino Gambling which can be found at this link https://catalog.data.gov/dataset/selected-online-casino-gaming-data. We obtained our data from a US Data Gov website that was provided, https://catalog.data.gov/dataset. This dataset contains selected online casino gambling data for four licensces in the state of Connecticut. The range of time that this dataset covers is October 21st, 2021 through March 31st, 2025. It lists data from four gambling licensees in the state, including their operating license, financials including wages, monthly payments, patron winnings and losses, and gambling revenue for every fiscal year. 
   
